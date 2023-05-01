@@ -23,5 +23,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Beispielausgabe von meine Nvidia 3070
+# Beispielausgabe von meiner Nvidia 3070
 # Matrixmuliplikation abgeschlossen in 0.8190 Sekunden.
