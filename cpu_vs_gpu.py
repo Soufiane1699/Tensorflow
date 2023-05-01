@@ -29,3 +29,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+'''
+Matrixmultiplikation auf der CPU abgeschlosse in 43.7825 Sekunden.
+2023-05-01 20:11:31.457177: I tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:637] TensorFloat-32 will be used for the matrix multiplication. This will only be logged once.
+Matrixmultplikation auf der GPU abgeschlossen in 0.7519 Sekunden
+Die GPU war 58.23x schneller als die CPU.
+'''
