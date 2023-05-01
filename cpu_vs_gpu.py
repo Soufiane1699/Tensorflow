@@ -11,7 +11,7 @@ def matrix_multiplikation(matrix_size, device_name):
     return elapsed_time
 
 def main():
-    matrix_size = 5000
+    matrix_size = 15000
 
     cpu_time = matrix_multiplikation(matrix_size, "/cpu:0")
     print(f"Matrixmultiplikation auf der CPU abgeschlosse in {cpu_time:.4f} Sekunden.")
