@@ -6,3 +6,9 @@
 - Miniconda
 - WSL for Windows
 - TensorFlow in virtual environment
+
+### Instruction
+[Install Tensorflow with pip](https://www.tensorflow.org/install/pip#windows-wsl2_1)
+
+
+
