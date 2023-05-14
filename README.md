@@ -1,4 +1,4 @@
-# TensorFlow-Deep-Learning
+# TensorFlow
 ![image](https://githubstoragesoufiane.blob.core.windows.net/container/TF_White_Primary_Horizontal.png)
 
 ## Requirements:
