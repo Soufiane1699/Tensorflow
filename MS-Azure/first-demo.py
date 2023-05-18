@@ -1,6 +1,6 @@
 import azure.cognitiveservices.speech as speechsdk
 
-speech_key, service_region = "314f55fdc23f4990a965d3fa384431c2", "germanywestcentral"
+speech_key, service_region = "", "germanywestcentral"
 speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=service_region)
 
 speech_config.speech_synthesis_voice_name = "de-DE-GiselaNeural"
